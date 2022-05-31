@@ -26,7 +26,19 @@
   background-size: cover;
   background-position: center center;
 }
-
+.carousel-caption {
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: initial;
+}
+.carousel-caption button {
+  width: 7rem;
+}
+.carousel-indicators {
+  top: 80%;
+  transform: translateY(-50%);
+  bottom: initial;
+}
 /*! --------------- 3- ABOUT SECTION ----------- */
 
 /*! ------------ 4- STUDENTS SECTION ----------- */
