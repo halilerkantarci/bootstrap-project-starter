@@ -5,6 +5,27 @@
 /*! --------------- 1- NAVBAR ------------------ */
 
 /*! --------------- 2- CAROUSEL ---------------- */
+.carousel-inner {
+  height: 100vh;
+}
+.car-1 {
+  background-image: url("../img/slider1.jpg");
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+.car-2 {
+  background-image: url("../img/slider2.jpg");
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+.car-3 {
+  background-image: url("../img/slider3.jpg");
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+}
 
 /*! --------------- 3- ABOUT SECTION ----------- */
 
